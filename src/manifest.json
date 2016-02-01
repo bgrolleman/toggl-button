@@ -55,6 +55,7 @@
     "*://*.basecamphq.com/*",
     "*://*.atlassian.net/*",
     "*://*.jira.com/*",
+    "*://jira.stichtingabunai.nl/*",
     "*://*.producteev.com/*",
     "*://*.bitbucket.org/*",
     "*://*.sifterapp.com/*",
@@ -119,6 +120,7 @@
         "*://*.atlassian.net/*",
         "*://*.atlassian.com/*",
         "*://*.jira.com/*",
+        "*://jira.stichtingabunai.nl/*",
         "*://*.producteev.com/*",
         "*://*.sifterapp.com/*",
         "*://docs.google.com/*",
@@ -237,7 +239,8 @@
       "matches": [
         "*://*.atlassian.net/*",
         "*://*.atlassian.com/*",
-        "*://*.jira.com/*"
+        "*://*.jira.com/*",
+        "*://jira.stichtingabunai.nl/*"
       ],
       "js": ["scripts/content/jira.js"]
     },
